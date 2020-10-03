@@ -114,7 +114,7 @@ defaults:
       # can be overridden in the front matter for a specific post
       hidden: false
   - scope:
-      path: "assets/pdfs"
+      path: "indigo/assets/pdfs"
     values:
       pdf: true
   - scope:
