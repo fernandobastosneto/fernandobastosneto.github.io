@@ -2,6 +2,7 @@
 title: Subsídios Econômicos e Comerciais
 projects: true
 layout: post
+type: post
 ---
 
 A área econômica do Itamaraty costuma formular relatórios econômicos e comerciais para subsidiar reuniões e negociações bilaterais (ou até mesmo pluri ou multilaterais) de autoridades brasileiras dos mais variados níveis. Nestes relatórios, procura-se estimar minimamente os interesses estratégicos econômicos do Brasil com cada país específico: principais produtos comercializados, eventuais concorrentes, tendências e movimentos de longo prazo, entre outros aspectos.
